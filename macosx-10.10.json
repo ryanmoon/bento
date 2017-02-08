@@ -205,6 +205,8 @@
         "scripts/macosx/disablesleep.sh",
         "scripts/macosx/vagrant.sh",
         "scripts/macosx/vmtools.sh",
+        "scripts/macosx/xcode_tools.sh",
+        "scripts/common/chef.sh",
         "scripts/macosx/cleanup.sh",
         "scripts/macosx/minimize.sh"
       ],

@@ -243,7 +243,8 @@
         "scripts/ubuntu/sudoers.sh",
         "scripts/ubuntu/vagrant.sh",
         "scripts/common/virtualbox.sh",
-        "scripts/ubuntu/vmware.sh",
+        "scripts/common/vmware.sh",
+        "scripts/common/chef.sh",
         "scripts/common/parallels.sh",
         "scripts/ubuntu/cleanup.sh",
         "scripts/common/minimize.sh"

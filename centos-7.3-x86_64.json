@@ -155,6 +155,7 @@
         "scripts/common/vagrant.sh",
         "scripts/common/virtualbox.sh",
         "scripts/centos/vmware.sh",
+        "scripts/common/chef.sh",
         "scripts/common/parallels.sh",
         "scripts/centos/cleanup.sh",
         "scripts/common/minimize.sh"

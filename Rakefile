@@ -22,11 +22,11 @@ task :do_all do
           Rake::Task['test_all'].invoke
           Rake::Task['test_all'].reenable
           # publish stage
-          Rake::Task['upload_all'].invoke
-          Rake::Task['upload_all'].reenable
+          # Rake::Task['upload_all'].invoke
+          # Rake::Task['upload_all'].reenable
           # release stage
-          Rake::Task['release_all'].invoke
-          Rake::Task['release_all'].reenable
+          # Rake::Task['release_all'].invoke
+          # Rake::Task['release_all'].reenable
           # clean stage
           Rake::Task['clean'].invoke
           Rake::Task['clean'].reenable
